@@ -1,0 +1,1 @@
+This project implements a basic Voice-over-IP (VoIP) system using Python's socket programming and PyAudio. It enables real-time audio transmission from a client, which captures and sends microphone input, to a server that plays the received audio instantly
